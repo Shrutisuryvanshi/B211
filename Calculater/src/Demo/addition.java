@@ -7,4 +7,9 @@ public class addition {
 		System.out.println(10+20);
 	}
 
+	public void Sub()
+	{
+		System.out.println(20-10);
+	}
+
 }
